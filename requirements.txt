@@ -1,0 +1,5 @@
+playwright==1.40.0
+beautifulsoup4==4.12.2
+python-telegram-bot==20.7
+aiohttp==3.9.3
+async-timeout==4.0.3
